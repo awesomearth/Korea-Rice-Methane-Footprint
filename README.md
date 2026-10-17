@@ -79,4 +79,4 @@ The source paper's PDF is not included. Read it at the DOI above.
 
 ## License
 
-Copyright © 2026 Hyojun Kwon. **All rights reserved.** See [LICENSE](LICENSE). Third-party data in `data/raw/` and the derived boundary layer keep their original licenses, as listed in LICENSE.
+Copyright © 2026 awesomearth. **All rights reserved.** See [LICENSE](LICENSE). Third-party data in `data/raw/` and the derived boundary layer keep their original licenses, as listed in LICENSE.
