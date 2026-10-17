@@ -1,0 +1,9 @@
+{
+ "publicDataPk": "15099158",
+ "publicDataDetailPk": "uddi:4ade01ad-f26b-4809-b1a1-c0f4af2bb099",
+ "dataNm": "행정안전부_지역별(법정동) 성별 연령별 주민등록 인구수_20251231",
+ "download_url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003577271&fileDetailSn=1&insertDataPrcus=N",
+ "page": "https://www.data.go.kr/data/15099158/fileData.do",
+ "bytes": 10131981,
+ "content_disposition": "attachment; filename=\"ì§ì­ë³(ë²ì ë) ì±ë³ ì°ë ¹ë³ ì£¼ë¯¼ë±ë¡ ì¸êµ¬ì_20251231.csv\""
+}

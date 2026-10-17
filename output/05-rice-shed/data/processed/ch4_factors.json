@@ -1,0 +1,354 @@
+{
+ "EFc": 2.32,
+ "ef_nat": 2.449263886074188,
+ "t_eff_days": 137.1403661525989,
+ "gwp": 28.0,
+ "area_nid_ha": 730356.0,
+ "sum_efa_kg_day": 1788834.5747775997,
+ "ch4_irr_2023_kg": 245321428.57142857,
+ "national_ch4_t": 227541.27136042464,
+ "national_kt_co2e": 6371.15559809189,
+ "national_intensity_kgco2e_per_kg": 1.8001708292682066,
+ "national_production_t": 3539195.0,
+ "sub_units": [
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_lt180",
+   "om": "none",
+   "area_ha": 34100.0,
+   "ef": 2.32
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_lt180",
+   "om": "straw",
+   "area_ha": 23800.0,
+   "ef": 5.8
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_lt180",
+   "om": "green",
+   "area_ha": 1000.0,
+   "ef": 2.4244
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_gt180",
+   "om": "none",
+   "area_ha": 300.0,
+   "ef": 1.8559999999999999
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_gt180",
+   "om": "straw",
+   "area_ha": 200.0,
+   "ef": 4.64
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_gt180",
+   "om": "green",
+   "area_ha": 10.0,
+   "ef": 1.9395199999999997
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_fl30",
+   "om": "none",
+   "area_ha": 12000.0,
+   "ef": 2.5288
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_fl30",
+   "om": "straw",
+   "area_ha": 8200.0,
+   "ef": 6.322
+  },
+  {
+   "sfw": "SFw_CF",
+   "sfp": "SFp_fl30",
+   "om": "green",
+   "area_ha": 400.0,
+   "ef": 2.6425959999999997
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_lt180",
+   "om": "none",
+   "area_ha": 27900.0,
+   "ef": 1.9255999999999998
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_lt180",
+   "om": "straw",
+   "area_ha": 20600.0,
+   "ef": 4.813999999999999
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_lt180",
+   "om": "green",
+   "area_ha": 800.0,
+   "ef": 2.0122519999999997
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_gt180",
+   "om": "none",
+   "area_ha": 200.0,
+   "ef": 1.5404799999999998
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_gt180",
+   "om": "straw",
+   "area_ha": 200.0,
+   "ef": 3.8511999999999995
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_gt180",
+   "om": "green",
+   "area_ha": 6.0,
+   "ef": 1.6098015999999997
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_fl30",
+   "om": "none",
+   "area_ha": 9800.0,
+   "ef": 2.098904
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_fl30",
+   "om": "straw",
+   "area_ha": 7200.0,
+   "ef": 5.247260000000001
+  },
+  {
+   "sfw": "SFw_1x_lt1wk",
+   "sfp": "SFp_fl30",
+   "om": "green",
+   "area_ha": 300.0,
+   "ef": 2.19335468
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_lt180",
+   "om": "none",
+   "area_ha": 103000.0,
+   "ef": 1.5312
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_lt180",
+   "om": "straw",
+   "area_ha": 77300.0,
+   "ef": 3.828
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_lt180",
+   "om": "green",
+   "area_ha": 3100.0,
+   "ef": 1.6001039999999997
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_gt180",
+   "om": "none",
+   "area_ha": 800.0,
+   "ef": 1.22496
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_gt180",
+   "om": "straw",
+   "area_ha": 600.0,
+   "ef": 3.0624000000000002
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_gt180",
+   "om": "green",
+   "area_ha": 20.0,
+   "ef": 1.2800832
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_fl30",
+   "om": "none",
+   "area_ha": 36100.0,
+   "ef": 1.669008
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_fl30",
+   "om": "straw",
+   "area_ha": 26800.0,
+   "ef": 4.1725200000000005
+  },
+  {
+   "sfw": "SFw_1x_1to2wk",
+   "sfp": "SFp_fl30",
+   "om": "green",
+   "area_ha": 1000.0,
+   "ef": 1.7441133599999998
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_lt180",
+   "om": "none",
+   "area_ha": 139000.0,
+   "ef": 1.1367999999999998
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_lt180",
+   "om": "straw",
+   "area_ha": 103600.0,
+   "ef": 2.8419999999999996
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_lt180",
+   "om": "green",
+   "area_ha": 3100.0,
+   "ef": 1.1879559999999998
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_gt180",
+   "om": "none",
+   "area_ha": 1100.0,
+   "ef": 0.9094399999999999
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_gt180",
+   "om": "straw",
+   "area_ha": 800.0,
+   "ef": 2.2735999999999996
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_gt180",
+   "om": "green",
+   "area_ha": 20.0,
+   "ef": 0.9503647999999999
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_fl30",
+   "om": "none",
+   "area_ha": 49400.0,
+   "ef": 1.239112
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_fl30",
+   "om": "straw",
+   "area_ha": 36500.0,
+   "ef": 3.09778
+  },
+  {
+   "sfw": "SFw_2x",
+   "sfp": "SFp_fl30",
+   "om": "green",
+   "area_ha": 1100.0,
+   "ef": 1.29487204
+  }
+ ],
+ "tier1_sensitivity": {
+  "straw shortly before": {
+   "ef_nat": 1.843371314156954,
+   "sfo_straw": 3.1521570237760623,
+   "intensity_nat": 1.3548492206668798
+  },
+  "straw long before": {
+   "ef_nat": 1.300741140236476,
+   "sfo_straw": 1.8124783684659298,
+   "intensity_nat": 0.95602448980536
+  }
+ },
+ "nid_factors": {
+  "EFc": 2.32,
+  "SFp_lt180": 1.0,
+  "SFp_gt180": 0.8,
+  "SFp_fl30": 1.09,
+  "SFw_CF": 1.0,
+  "SFw_1x_lt1wk": 0.83,
+  "SFw_1x_1to2wk": 0.66,
+  "SFw_2x": 0.49,
+  "SFo_straw": 2.5,
+  "SFo_green": 1.045,
+  "ROA_straw": 6.0,
+  "ROA_green": 0.0685,
+  "CH4_irrigated_2023": 6869.0,
+  "CH4_rainfed_2023": 10.0,
+  "CH4_rice_total_2023": 6879.0,
+  "GWP_CH4": 28.0
+ },
+ "ipcc_factors": {
+  "EFc": {
+   "value": 1.3,
+   "low": 0.8,
+   "high": 2.2
+  },
+  "SFw_CF": {
+   "value": 1.0,
+   "low": 0.79,
+   "high": 1.26
+  },
+  "SFw_single": {
+   "value": 0.6,
+   "low": 0.46,
+   "high": 0.8
+  },
+  "SFw_multiple": {
+   "value": 0.52,
+   "low": 0.41,
+   "high": 0.66
+  },
+  "SFp_lt180": {
+   "value": 1.0,
+   "low": 0.88,
+   "high": 1.14
+  },
+  "SFp_gt180": {
+   "value": 0.68,
+   "low": 0.58,
+   "high": 0.8
+  },
+  "SFp_fl30": {
+   "value": 1.9,
+   "low": 1.65,
+   "high": 2.18
+  },
+  "SFo_exponent": {
+   "value": 0.59,
+   "low": 0.54,
+   "high": 0.64
+  },
+  "CFOA_straw_short": {
+   "value": 1.0,
+   "low": 0.97,
+   "high": 1.04
+  },
+  "CFOA_straw_long": {
+   "value": 0.29,
+   "low": 0.2,
+   "high": 0.4
+  },
+  "CFOA_green": {
+   "value": 0.5,
+   "low": 0.3,
+   "high": 0.6
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "checked": "2026-10-17",
+ "datagokr_page": "https://www.data.go.kr/data/15125064/fileData.do",
+ "datagokr_has_portal_file": false,
+ "datagokr_provision": "기관자체에서 다운로드(제공데이터URL기재)",
+ "vworld_page": "https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=30015",
+ "vworld_lists_file": true,
+ "vworld_download_gated": true
+}

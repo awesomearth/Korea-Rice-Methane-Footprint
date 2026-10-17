@@ -1,0 +1,13 @@
+sfw_class,sfp_class,area_none_kha,area_straw_kha,area_green_kha,area_total_kha
+SFw_CF,SFp_lt180,34.1,23.8,1.0,58.9
+SFw_CF,SFp_gt180,0.3,0.2,0.01,0.4
+SFw_CF,SFp_fl30,12.0,8.2,0.4,20.6
+SFw_1x_lt1wk,SFp_lt180,27.9,20.6,0.8,49.4
+SFw_1x_lt1wk,SFp_gt180,0.2,0.2,0.006,0.4
+SFw_1x_lt1wk,SFp_fl30,9.8,7.2,0.3,17.3
+SFw_1x_1to2wk,SFp_lt180,103.0,77.3,3.1,183.4
+SFw_1x_1to2wk,SFp_gt180,0.8,0.6,0.02,1.4
+SFw_1x_1to2wk,SFp_fl30,36.1,26.8,1.0,64.0
+SFw_2x,SFp_lt180,139.0,103.6,3.1,246.7
+SFw_2x,SFp_gt180,1.1,0.8,0.02,2.0
+SFw_2x,SFp_fl30,49.4,36.5,1.1,87.4

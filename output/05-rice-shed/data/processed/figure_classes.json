@@ -1,0 +1,109 @@
+{
+ "fig1": {
+  "variable": "per capita household rice-shed CH4 footprint, kg CO2e/person/yr",
+  "method": "Fisher-Jenks (exact Jenks natural breaks), k=5",
+  "breaks": [
+   90.96,
+   95.11,
+   99.15,
+   104.23,
+   113.87
+  ],
+  "min": 84.62,
+  "counts": [
+   30,
+   63,
+   54,
+   58,
+   24
+  ]
+ },
+ "fig2": {
+  "variable": "CH4 intensity of producing units, kg CO2e per kg milled rice",
+  "method": "Fisher-Jenks k=5 on the 156 producing units",
+  "breaks": [
+   1.7284,
+   1.8214,
+   1.9046,
+   1.9938,
+   2.1125
+  ],
+  "min": 1.57,
+  "counts": [
+   27,
+   39,
+   49,
+   34,
+   7
+  ],
+  "polygons_without_producer": 5,
+  "polygons_without_producer_names": [
+   "Taebaek-si",
+   "Jeju-si",
+   "Guri-si",
+   "Anyang-si",
+   "Ulleung-gun"
+  ]
+ },
+ "fig3": {
+  "variable": "LP flows (t) to the five largest consuming units",
+  "method": "none (individual flows)",
+  "panels": [
+   {
+    "admin_code": "41590",
+    "label": "Hwaseong-si",
+    "demand_t": 53359.3,
+    "n_sources": 1,
+    "mean_km": 0.0
+   },
+   {
+    "admin_code": "41360",
+    "label": "Namyangju-si",
+    "demand_t": 39333.7,
+    "n_sources": 9,
+    "mean_km": 86.0
+   },
+   {
+    "admin_code": "28260",
+    "label": "Seo-gu",
+    "demand_t": 35269.9,
+    "n_sources": 1,
+    "mean_km": 23.9
+   },
+   {
+    "admin_code": "11710",
+    "label": "Songpa-gu",
+    "demand_t": 34676.6,
+    "n_sources": 4,
+    "mean_km": 86.1
+   },
+   {
+    "admin_code": "41220",
+    "label": "Pyeongtaek-si",
+    "demand_t": 32900.7,
+    "n_sources": 1,
+    "mean_km": 0.0
+   }
+  ],
+  "max_flow_t": 53359.3
+ },
+ "fig4": {
+  "variable": "ratio of spatial footprint to national-average-intensity footprint",
+  "method": "manual diverging classes centred on 1.0 (neutral class 0.97–1.03)",
+  "breaks": [
+   0.9,
+   0.97,
+   1.03,
+   1.1,
+   1.174
+  ],
+  "min": 0.872,
+  "counts": [
+   3,
+   74,
+   78,
+   59,
+   15
+  ]
+ }
+}

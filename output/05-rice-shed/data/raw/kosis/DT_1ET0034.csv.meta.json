@@ -1,0 +1,31 @@
+{
+ "orgId": "101",
+ "tblId": "DT_1ET0034",
+ "tblNm": "시군별 논벼 생산량(정곡,92.9%)",
+ "years": [
+  "2023",
+  "2024",
+  "2025"
+ ],
+ "containPeriod": " 년 1965 ~ 2025",
+ "renewalDate": "2025-11-13",
+ "source_page": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0034",
+ "items": [
+  [
+   "T10",
+   "논벼:재배면적",
+   "Cultivated Area in ha"
+  ],
+  [
+   "T20",
+   "논벼:10a당 생산량",
+   "per 10a output"
+  ],
+  [
+   "T30",
+   "논벼:생산량",
+   "Production in tons"
+  ]
+ ],
+ "bytes": 13178
+}

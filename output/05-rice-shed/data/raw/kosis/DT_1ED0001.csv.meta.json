@@ -1,0 +1,31 @@
+{
+ "orgId": "101",
+ "tblId": "DT_1ED0001",
+ "tblNm": "1인당 연간 양곡소비량",
+ "years": [
+  "2023",
+  "2024",
+  "2025"
+ ],
+ "containPeriod": " 년 1963 ~ 2025",
+ "renewalDate": "2026-02-02",
+ "source_page": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ED0001",
+ "items": [
+  [
+   "T10",
+   "전가구",
+   "All households"
+  ],
+  [
+   "T20",
+   "농가",
+   "farm households"
+  ],
+  [
+   "T30",
+   "비농가",
+   "Nonfarm households"
+  ]
+ ],
+ "bytes": 1301
+}

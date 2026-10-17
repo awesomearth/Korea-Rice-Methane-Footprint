@@ -1,0 +1,12 @@
+key,value,low,high,unit,ipcc_item,ipcc_page,quoted_label
+EFc,1.30,0.80,2.20,kg CH4/ha/day,Table 5.11,5.49,CH4 emission (kg CH4 ha-1 d-1) 1.30 0.80 - 2.20
+SFw_CF,1,0.79,1.26,-,Table 5.12 (disaggregated),5.49,Continuously flooded 1 0.79 - 1.26
+SFw_single,0.60,0.46,0.80,-,Table 5.12 (disaggregated),5.49,Intermittently flooded – single aeration 0.60 0.46 - 0.80
+SFw_multiple,0.52,0.41,0.66,-,Table 5.12 (disaggregated),5.49,Intermittently flooded – multiple aeration 0.52 0.41 - 0.66
+SFp_lt180,1,0.88,1.14,-,Table 5.13 (disaggregated),5.50,Non flooded pre-season <180 d 1 0.88 - 1.14
+SFp_gt180,0.68,0.58,0.80,-,Table 5.13 (disaggregated),5.50,Non flooded pre-season >180 d 0.68 0.58 - 0.80
+SFp_fl30,1.90,1.65,2.18,-,Table 5.13 (disaggregated),5.50,Flooded pre-season (>30 d) 1.90 1.65 - 2.18
+SFo_exponent,0.59,0.54,0.64,-,Equation 5.3 / text,5.50,An uncertainty range of 0.54-0.64 can be adopted for the exponent 0.59
+CFOA_straw_short,1,0.97,1.04,-,Table 5.14,5.51,Straw incorporated shortly (<30 days) before cultivation 1 0.97 - 1.04
+CFOA_straw_long,0.29,0.20,0.40,-,Table 5.14,5.51,Straw incorporated long (>30 days) before cultivation 0.29 0.20 - 0.40
+CFOA_green,0.50,0.30,0.60,-,Table 5.14,5.51,Green manure 0.50 0.30 - 0.60

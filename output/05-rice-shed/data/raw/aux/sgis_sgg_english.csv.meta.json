@@ -1,0 +1,9 @@
+{
+ "publicDataPk": "15135856",
+ "publicDataDetailPk": "uddi:a954fa2b-22e1-4a56-9347-9f16fbcd34c7",
+ "dataNm": "국가데이터처_SGIS_시군구경계영문_20240710",
+ "download_url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003018671&fileDetailSn=1&insertDataPrcus=N",
+ "page": "https://www.data.go.kr/data/15135856/fileData.do",
+ "bytes": 16976,
+ "content_disposition": "attachment; filename=\"srv_dt_sgg_en.csv\""
+}

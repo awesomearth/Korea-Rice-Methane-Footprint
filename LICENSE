@@ -1,0 +1,31 @@
+Copyright (c) 2026 Hyojun Kwon. All rights reserved.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell copies of the original code, text, figures, or derived
+datasets in this repository, in whole or in part, without the prior written
+permission of the copyright holder.
+
+Viewing the contents of this repository on GitHub, and forking it within
+GitHub as permitted by the GitHub Terms of Service, does not grant any further
+rights.
+
+Third-party data
+----------------
+Files under output/05-rice-shed/data/raw/ were obtained from third parties and
+remain under their original terms, which this notice does not change:
+
+- geoBoundaries gbOpen KOR ADM2 (CC BY 3.0) and ADM1 (Public Domain);
+  see the CITATION-AND-USE file inside each geoBoundaries zip.
+- OpenStreetMap / Nominatim data for 영광군 (c) OpenStreetMap contributors,
+  ODbL 1.0. The derived boundary layer
+  output/05-rice-shed/presentation/data/korea-adm2.geo.json contains this
+  OSM-derived geometry and geoBoundaries geometry, and is made available under
+  ODbL 1.0 and CC BY 3.0 respectively, not under the reservation above.
+- KOSIS (Statistics Korea), data.go.kr (Ministry of the Interior and Safety;
+  SGIS), and GIR tables: Korean public data, subject to the terms stated on
+  each source page.
+- Factor transcriptions from the IPCC 2006 Guidelines, GIR NID 2025, and
+  FAO (2011) are cited to their sources; the source documents are not
+  redistributed here.
+
+THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
