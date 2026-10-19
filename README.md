@@ -1,6 +1,6 @@
 # Rice-shed Methane Footprint of Korean Cities
 
-A spatial footprint study that applies the "carbon hoofprint" method of Goldstein et al. (2025, *Nature Climate Change* 15, 1190–1197, [doi:10.1038/s41558-025-02450-7](https://doi.org/10.1038/s41558-025-02450-7)) to South Korea. The study traces the paddy-rice methane (CH4) embodied in each si/gun/gu's household rice consumption back to the places where the rice is grown.
+A spatial footprint study that applies the "carbon hoofprint" method of Goldstein et al. (2025, *Nature Climate Change* 15, 1190–1197, [doi:10.1038/s41558-025-02450-7](https://doi.org/10.1038/s41558-025-02450-7)) to South Korea. The study traces the paddy-rice methane (CH4) embodied in each si/gun/gu's household rice consumption back to the places where the rice is grown. Presentation built with Claude Code. 
 
 ## Headline results (2025)
 
